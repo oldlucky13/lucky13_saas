@@ -2,7 +2,7 @@
 
 Lucky 13 Project Application
 Subscription based web app
-https://polar-fortress-3863.herokuapp.com/
+https://whispering-inlet-6665.herokuapp.com/
 
 Things you may want to cover:
 
