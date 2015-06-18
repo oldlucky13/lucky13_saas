@@ -7,7 +7,11 @@ gem 'rails', '4.1.0'
 gem 'sqlite3', group: [:development, :test]
 
 #use bootstrap library for styles current library 3.3.5 17 June 2015
+<<<<<<< HEAD
 gem 'bootstrap-sass', '3.3.1'
+=======
+gem 'bootstrap-sass', '3.3.5'
+>>>>>>> add_bootstrap
 
 #use postgresql as the database for production
 group :production do
