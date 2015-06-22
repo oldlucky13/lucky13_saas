@@ -2,7 +2,7 @@
 
 Lucky 13 Project Application
 Subscription based web app
-https://whispering-inlet-6665.herokuapp.com/
+https://morning-bastion-2404.herokuapp.com/
 
 Things you may want to cover:
 
