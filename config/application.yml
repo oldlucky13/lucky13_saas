@@ -4,8 +4,8 @@
 # pusher_key: 7381a978f7dd7f9a1117
 # pusher_secret: abdc3b896a0ffb85d373
 stripe_api_key: sk_test_BfwNtw4yDdaZd4PhJ8qyMhJE
-stripe_publishable_key: pk_test_H7sABcJQv7NnHBb9jqU90gp4
+stripe_publishable_key: pk_test_H7sABcJQv7NnHBb9jqU90gp4 
 #
-# production:
+ production:
    stripe_api_key: sk_test_BfwNtw4yDdaZd4PhJ8qyMhJE
    stripe_publishable_key: pk_test_H7sABcJQv7NnHBb9jqU90gp4
